@@ -1,2 +1,2 @@
 # inclusive-web-project
-Exploring ways to make the web more inclusive for a more diverse group of developers, in skills and demographics
+Exploring ways to make the web developer community more inclusive, in skills and demographics.
