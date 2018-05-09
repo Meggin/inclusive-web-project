@@ -1,5 +1,9 @@
-# What I'm reading:
+# Reading log
 
-# What I'm listening to:
+## What I'm reading
 
-# What I'm watching: 
+* 
+
+## What I'm listening to
+
+## What I'm watching: 
