@@ -1,4 +1,5 @@
 # Reading log
+For now, I'm just listing my resources. Later, I'll try and show due diligence and at least give a little bit more information what the book is about, and what I've learned from it (short, but key learnings).
 
 ## What I'm reading
 
