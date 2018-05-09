@@ -1,6 +1,8 @@
 # inclusive-web-project
 Exploring ways to make the web developer community more inclusive.
 
+For now, I'm exploring, but as the project takes shape, I will use GitHub's wonderful milestone tracking to create a plan, and action that plan!
+
 ## Starting point - 100-day journal
 To kick-start this project, I will keep a 100-day journal. I'll keep track of people I talk to, research I complete, information I gain out of this research, and any action items that come out of the work.
 
