@@ -2,16 +2,12 @@
 Exploring ways to make the web developer community more inclusive.
 
 ## Starting point - 100-day journal
-
-To kick-start this project, I will keep a 100-day journal in which I will answer these four questions:
-
-* Any new thoughts on what the inclusive web might look like?
-* Any new ideas on how to build a more inclusive web?
-* Did I plan or complete any actions toward building a more inclusive web?
-* Did I have any interesting conversations or read something that might help me better understand how to build a more inclusive web?
+To kick-start this project, I will keep a 100-day journal. I'll keep track of people I talk to, research I complete, information I gain out of this research, and any action items that come out of the work.
 
 ## Reading log
 To learn more about the industry (and hopefully discover ways to change it), I'm gonna read a lot of books, and keep a reading journal.
+
+I'll also include anything I watch or listen to that might be of interest.
 
 ## Contribute!
 
