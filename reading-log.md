@@ -19,3 +19,4 @@ For now, I'm just listing my resources. Later, I'll try and show due diligence a
 * [Future of Work and Scaling Enterprise Products](https://www.youtube.com/watch?v=2v1GUWBJnx4&t=1936s), April Underwood.
 * [MIc'd Up | Part 1: A Conversation with Angela Ahrendts](https://www.youtube.com/watch?v=9Ch9gqTzMSU&t=913s), Angela Ahrendts.
 * [Letting everyone build a better web with Glitch](https://medium.com/glitch), Jen Schiffer.
+* [NPR How I built this podcast](https://www.npr.org/podcasts/510313/how-i-built-this)
