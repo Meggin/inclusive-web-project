@@ -18,7 +18,9 @@ When we are at home, and events are close by, it is harder for us to make a deci
 
 Events are such an important part of the web developer community.
 
-I wonder if there's some small things we can do to recognize that we know there are awesome web developer moms (and dads) who might not be able to participate in events in the same way as they would have before kids.
+I wonder if there's some small things we can do around events to include web developer parents who can't attend in person, but want to do more than just watch a live stream? Or maybe we could think about parents as part of planning/scheduling events.
+
+There's this logical trend of booking great talks at start and end of day so that audiences come for the longest period of time-- this may not be the most inclusive thing, however, for working parents.
 
 ### Actions completed
 
