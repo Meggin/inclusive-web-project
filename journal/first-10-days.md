@@ -31,3 +31,27 @@ There's this logical trend of booking great talks at start and end of day so tha
 
 * Reminder to follow up with @RayanZahab the first female Google Developer Expert in MENA.
 * Reminder to follow up with Code for Good on possible collaboration opportunity.
+
+## Day 2 - Thursday, May 10, 2018
+
+Today is the last day of Google IO 2018. Just had a wonderful lunch with the women of Google Dev Rel. And I'm tired now-- belly is full. This will be a shorter than usual journal log, as I need to get back to the sandbox. 
+
+But tomorrow, I have the day to read and think about things-- and hope to make some genuine progress!
+
+### Excluded group I'm thinking about
+
+Today I'm thinking about native mobile developers (Android and iOS), who seem to be curious about the web this year. 
+
+It might be of interest to think a bit about native developers, and how they might build simple, but good websites. Or maybe how to help them even migrate to a website. I haven't spent much time on this-- but I noticed at IO this year, there was some interest from the native developers to better understand PWAs.
+
+This morning I worked in Office Hours, helping people improve their websites. One person I met had a website that was linking to cordova, and he was using a webview. I'd also like to better understand what developers are trying to do to get their sites to work x-platform.
+
+### Actions completed today
+
+* Google IO 2018 finishes up today!
+
+### Actions to follow up on
+
+* Talk to some Android Dev Rel peeps to find out more about the bridging between the native and web-- common patterns (and anti-patterns).
+* Follow up with Lyla about code for good.
+* Follow up with the internal book club that Addy Osmani told me about (at the very least, can increase my books-to-read list).
