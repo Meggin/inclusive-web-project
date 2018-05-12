@@ -55,3 +55,25 @@ This morning I worked in Office Hours, helping people improve their websites. On
 * Talk to some Android Dev Rel peeps to find out more about the bridging between the native and web-- common patterns (and anti-patterns).
 * Follow up with Lyla about code for good.
 * Follow up with the internal book club that Addy Osmani told me about (at the very least, can increase my books-to-read list).
+
+## Day 3 - Saturday, May 11, 2018
+
+Yesterday was the day after IO, and I took a much needed break from the digital world. This morning, I woke up first thing, wanting to check if there's a way to convert a scratch game to any other output. 
+
+### Bringing students to the web
+
+I've been thinking awhile about wanting to bring students to the web. And there are many ways to do that, especially with the simple Glitch sites.
+
+But when it comes to younger children, like Amelia, I get the sense that it would be much easier to go to where they are rather than trying to disrupt their learning and completely shift them to the web.
+
+Ideally, I'd like to figure out a simple way to convert a scratch game to a website. It isn't straight forward-- at the moment, you can convert a game through tools to java executables, similar native apps for other platforms, and you can embed a Scratch game into a website, but there isn't a straightforward conversion... yet. 
+
+The main goal isn't even to just bring kids from Scratch to the web, it might be to create a similar UI based coding project that does work on the web-- something in Glitch may be doable.
+
+Ideally, you would want kids to see a natural path from the logic of early days programming to hosting on the web.
+
+### Actions to follow up on
+
+* Spend a short period of time exploring a similar Scratch like coding experience that can be converted to a website.
+* Also research learning materials out there for students on the web-- are they simple enough? More geared toward high school students?
+* Look into most popular curriculums for students.
