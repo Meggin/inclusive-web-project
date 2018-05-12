@@ -12,6 +12,7 @@ For now, I'm just listing my resources. Later, I'll try and show due diligence a
 * [Power of Many: Values for Success in Business and Life](https://www.amazon.com/Power-Many-Values-Success-Business/dp/0307591220/ref=sr_1_1?s=books&ie=UTF8&qid=1525887059&sr=1-1&keywords=Power+of+Many), Meg Whitman.
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?s=books&ie=UTF8&qid=1525887078&sr=1-1&keywords=zero+to+one), Peter Theil.
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?s=books&ie=UTF8&qid=1525887094&sr=1-1&keywords=measure+what+matters), John Kotter.
+* [The Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=sr_1_1?ie=UTF8&qid=1526141867&sr=8-1&keywords=the+culture+code), Daniel Coyle.
 
 ## Blogs I'm reading
 
