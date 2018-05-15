@@ -77,3 +77,23 @@ Ideally, you would want kids to see a natural path from the logic of early days 
 * Spend a short period of time exploring a similar Scratch like coding experience that can be converted to a website.
 * Also research learning materials out there for students on the web-- are they simple enough? More geared toward high school students?
 * Look into most popular curriculums for students.
+
+## Day 4 - Monday, May 14, 2018
+
+Today was a post-IO catch-up day, trying to figure out all the normal work/life stuff that I missed out on over the past busy couple of months.
+
+### Group to think about specifically targeting for web development!
+
+Today, I started to think about the possibilities of targeting people who have Chromebooks. Up until now, development has been somewhat limited in terms of requiring access to certain kinds of hardware.
+
+But now, with development possible on Chromebooks, we should be targeting how to make this as easy as possible to audiences who may not have realized development is now accessible to them.
+
+### Actions to follow up on
+
+* Checkout Chromebook OKRs, especially around distribution and education.
+* More specifically, check if there's already plans to encourage development on Chromebooks, and then determine if we can help with these plans.
+* Need to draft my doc plans in a more real way-- following 'Measure what matters', with three or four stretch objectives, and measurable key results. Use these notes to help make that happen this week!
+
+### Actions completed today
+
+* A little bit of dialog with Code for Good. Baby steps!
