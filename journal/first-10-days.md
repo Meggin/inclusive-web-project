@@ -82,7 +82,7 @@ Ideally, you would want kids to see a natural path from the logic of early days 
 
 Today was a post-IO catch-up day, trying to figure out all the normal work/life stuff that I missed out on over the past busy couple of months.
 
-### Group to think about specifically targeting for web development!
+### Group to bring to the web developer community
 
 Today, I started to think about the possibilities of targeting people who have Chromebooks. Up until now, development has been somewhat limited in terms of requiring access to certain kinds of hardware.
 
@@ -97,3 +97,24 @@ But now, with development possible on Chromebooks, we should be targeting how to
 ### Actions completed today
 
 * A little bit of dialog with Code for Good. Baby steps!
+
+## Day 5 - Wednesday, May 16, 2018
+
+Yesterday, I talked with some of my team members, one of whom mentioned a new intern we have joining us this summer who is very passionate about finding ways to help people in lower income areas realize and have access to the potential of learning to code. There's an intimidation factor that many people feel-- that unless they are already in the coding profession, or unless they are some stand-out math expert, there isn't a job that they can successfully do in the tech industry.
+
+This is one of those myths we need to work hard to push against.
+
+### Group to bring to the web developer community
+
+There are many people in low income, rural areas, who don't necessarily see or understand the possibilities of coding as a way to make a living. There's all kinds of myths around being a coder that intimidates and alienates people. We need to change that!
+
+The web developer community is perfect for people getting into coding. So we should make this happen.
+
+### Actions completed today
+
+* Finished reading Measure what matters (and got a great way to word the vision I'm having around my next big project!).
+
+### Actions to follow up on
+
+* Investigate efforts happening in Google for jobs to help people in low-income rural areas see the potential in learning to code. 
+* Find out if web development is part of this narrative.
