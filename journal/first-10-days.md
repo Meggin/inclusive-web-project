@@ -118,3 +118,34 @@ The web developer community is perfect for people getting into coding. So we sho
 
 * Investigate efforts happening in Google for jobs to help people in low-income rural areas see the potential in learning to code. 
 * Find out if web development is part of this narrative.
+
+## Day 6 - Thursday, May 17, 2018
+Today was a very busy day, and I'm about to stop to feed and bathe the kids.
+
+But before I do, I wanted to capture some thoughts from yesterday.
+
+Yesterday, I hosted students from the BlendEd program-- a mix of students across the Bay area who completed a cross-school entrepreneurial program. They had to present their product pitches. Lots of ideas came out of it.
+
+I also had a strategic meeting to start to think about the next thing we build on my team-- and two ideas came out of it relating to this project that I want to create.
+
+### Group to bring to the web developer community
+
+There is an absolute opportunity to bring high school students like the ones in the BlendEd program (and others) to the web. These kids build product presentations, and every one of them said.... 'I don't have coding skills, but if I did...' Also, a few built 'engineering budgets' into their plans. 
+
+And the kicker-- most of their products were interesting, and would be easy enough to build into a simple web app. We should give people like this more tools to see their ideas to fruition-- there is clearly this sort of notion that it is too hard to learn, so no point in trying.
+
+I had many conversations with the students, as well, about kids in their schools who would probably work in Google-- and they fit the stereotype, loner, anti-social, super good at computers characteristics. And yet, the product ideas were very good-- closely related to their worlds-- if they realized how easy it would be to build something that would help people like them, we'd have a much more diverse set of ideas-- and that's just a small set of high school students!
+
+### Actions completed
+
+* Created a connection with a couple of teachers running programs across high schools in the Bay Area. They want to work together on a possible Bay Area wide, build for the web, project for next year-- very cool.
+* Had some good ideas today in a meeting on inclusive metrics. For example, what if we tried to incentivise and target specific exclusive groups to contribute to our content, and then raise awareness and props when they do? That would be awesome. Don't lose site of this.
+* Had a great discussion with a designer on the bus ride home about how to push forward on new projects when there isn't quite consensus. Listing the ideas in the actions to follow up on!
+
+### Actions to follow up on
+
+* Create a calendar reminder to follow up with BlendEd leads on future collaboration.
+* She (Noreen) suggested to create a weekly retro report which tracks decisions made, risks involves, and any concerns raised, or decisions decided against. This way everyone still gets a voice.
+* Noreen also suggested to create strict planning docs, with 'fail fast' built in-- everyone lets experiments happen and are OK with it, because each week, risks are assessed, and when they get too high, then we fail fast.
+* Noreen also suggested to hold weely 'keep stop start' meetings.
+
