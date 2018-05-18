@@ -157,11 +157,11 @@ I had many conversations with the students, as well, about kids in their schools
 
 Today I'm a bit down. (As I progress with this journal-- it is starting to feel like a journal!)
 
-Why am I down? It's been a challenging week, some highs, some lows, and lots of worries. My daughter tried out for competetive soccer for the first time and I am genuinely surprised at how hard this has been-- the nerves with her pushing herselves, the worry if she will make a good team, then the decisions on what team to pick, and the back and forth with my husband trying to come to some sort of middle ground on how we see the world. 
+Why am I down? It's been a challenging week, some highs, some lows, and lots of worries. My daughter tried out for competetive soccer for the first time and I am genuinely surprised at how hard this has been-- the nerves seeing her be vulnerable and push herself, the worry if she will make a good team, then the decisions on what team to pick, and the back and forth with my husband trying to come to some sort of middle ground on how we see the world. 
 
 We've picked a team-- and can honestly say now I just hope it is a good experience for her. I worry that I pushed for the wrong thing.
 
-I'm also down because I'm trying to kick-start a very big project. I've been putting my heart into it-- and I see a good path to move forward, but I need to be better at building consensus and shifting into coding/building/creating mode. We need a pilot to push against. I'm disappointed in myself for not being more successful this week.
+I'm also down because I'm trying to kick-start a very big project. I've been putting my heart into it-- and I see a good path to move forward, but I need to be better at building consensus and shifting into coding/building/creating mode. I'm disappointed in myself for not being more successful this week.
 
 And finally, I have so many wonderful people I've met who I want to help-- but I can't seem to find the time that is needed to make things happen. I also get discouraged sometimes-- as I try and figure out this path-- there is a mixture of apathy and conflict that is a constant. It's exhausting. But I'm gonna keep at it... keep committed, and know that some days will be harder than others.
 
@@ -169,7 +169,7 @@ And finally, I have so many wonderful people I've met who I want to help-- but I
 
 Today I'm thinking about members of the web developer community who have been fighting the good fight for a long time now-- trying to build a more inclusive community.
 
-There has to be some way to provide them more support, recognition, and a platform to help them scale. For sure, this will be a key, strategic part of building an inclusive web-- getting others who are leaders in the community alreading doing this, to intersect and scale the good efforts.
+There has to be some way to provide them more support, recognition, and a platform to help them scale. For sure, this will be a key, strategic part of building an inclusive web-- help leaders in the community who are actively building a more inclusive community to intersect and scale.
 
 ### Actions to follow up on
 
