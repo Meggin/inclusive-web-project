@@ -141,6 +141,7 @@ I had many conversations with the students, as well, about kids in their schools
 * Created a connection with a couple of teachers running programs across high schools in the Bay Area. They want to work together on a possible Bay Area wide, build for the web, project for next year-- very cool.
 * Had some good ideas today in a meeting on inclusive metrics. For example, what if we tried to incentivise and target specific exclusive groups to contribute to our content, and then raise awareness and props when they do? That would be awesome. Don't lose site of this.
 * Had a great discussion with a designer on the bus ride home about how to push forward on new projects when there isn't quite consensus. Listing the ideas in the actions to follow up on!
+* Started reading The Culture Code.
 
 ### Actions to follow up on
 
@@ -148,4 +149,5 @@ I had many conversations with the students, as well, about kids in their schools
 * She (Noreen) suggested to create a weekly retro report which tracks decisions made, risks involves, and any concerns raised, or decisions decided against. This way everyone still gets a voice.
 * Noreen also suggested to create strict planning docs, with 'fail fast' built in-- everyone lets experiments happen and are OK with it, because each week, risks are assessed, and when they get too high, then we fail fast.
 * Noreen also suggested to hold weely 'keep stop start' meetings.
+* Take notes on Measure What Matters!
 
