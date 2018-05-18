@@ -149,5 +149,5 @@ I had many conversations with the students, as well, about kids in their schools
 * She (Noreen) suggested to create a weekly retro report which tracks decisions made, risks involves, and any concerns raised, or decisions decided against. This way everyone still gets a voice.
 * Noreen also suggested to create strict planning docs, with 'fail fast' built in-- everyone lets experiments happen and are OK with it, because each week, risks are assessed, and when they get too high, then we fail fast.
 * Noreen also suggested to hold weely 'keep stop start' meetings.
-* Take notes on Measure What Matters!
+* Take notes on Measure What Matters! Main thing I want to capture is P. 216: Catalysts and Nourishers.
 
