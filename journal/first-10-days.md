@@ -1,5 +1,7 @@
 # Inclusive Web Project Journal - First 10 Days
 
+Just as a quick FYI-- my plan is to organize journal by 10-day periods, followed by a focused analysis of what I've learned (and pushing forward on action items). Then I'll start the next 10 days. Hopefully this is as good as any way to start this process.
+
 ## Day 1 - Wednesday, May 9, 2018
 
 Today is the first day of my 100-day challenge to think about how to build a more inclusive web. At the moment, I'm sitting on a shuttle bus heading down to Mountain View for the second day of Google IO 2018.
@@ -150,4 +152,31 @@ I had many conversations with the students, as well, about kids in their schools
 * Noreen also suggested to create strict planning docs, with 'fail fast' built in-- everyone lets experiments happen and are OK with it, because each week, risks are assessed, and when they get too high, then we fail fast.
 * Noreen also suggested to hold weely 'keep stop start' meetings.
 * Take notes on Measure What Matters! Main thing I want to capture is P. 216: Catalysts and Nourishers.
+
+## Day 7 - Friday, May 18, 2018
+
+Today I'm a bit down. (As I progress with this journal-- it is starting to feel like a journal!)
+
+Why am I down? It's been a challenging week, some highs, some lows, and lots of worries. My daughter tried out for competetive soccer for the first time and I am genuinely surprised at how hard this has been-- the nerves with her pushing herselves, the worry if she will make a good team, then the decisions on what team to pick, and the back and forth with my husband trying to come to some sort of middle ground on how we see the world. 
+
+We've picked a team-- and can honestly say now I just hope it is a good experience for her. I worry that I pushed for the wrong thing.
+
+I'm also down because I'm trying to kick-start a very big project. I've been putting my heart into it-- and I see a good path to move forward, but I need to be better at building consensus and shifting into coding/building/creating mode. We need a pilot to push against. I'm disappointed in myself for not being more successful this week.
+
+And finally, I have so many wonderful people I've met who I want to help-- but I can't seem to find the time that is needed to make things happen. I also get discouraged sometimes-- as I try and figure out this path-- there is a mixture of apathy and conflict that is a constant. It's exhausting. But I'm gonna keep at it... keep committed, and know that some days will be harder than others.
+
+### Groups to raise up in the web developer community
+
+Today I'm thinking about members of the web developer community who have been fighting the good fight for a long time now-- trying to build a more inclusive community.
+
+There has to be some way to provide them more support, recognition, and a platform to help them scale. For sure, this will be a key, strategic part of building an inclusive web-- getting others who are leaders in the community alreading doing this, to intersect and scale the good efforts.
+
+### Actions to follow up on
+
+* Research/create list of at least 100 groups across the world who are actively trying to build a more inclusive web developer community.
+* Help write, publish, and promote blog post on Rayan Zahab's journey. And follow up with her, Natalie, and Salim on how we can coordinate more.
+
+### Actions completed today
+
+* I feel it is worth recognizing that I went for a short run today. I was feeling down, and under-motivated, and I got myself out for a jog and feel better for it. Some days, just doing that is worth recognizing.
 
