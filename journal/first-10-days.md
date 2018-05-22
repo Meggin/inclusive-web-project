@@ -209,3 +209,30 @@ I'm thinking a bit more deeply about these groups and how I interact with them. 
 * Build 'what if this fails' into inclusive-web-project. And then mitigate the risks.
 * Also create a 'what success looks like' into inclusive-web-project.
 
+## Day 9 - Tuesday, May 21, 2018
+
+Today, I got to attend this awesome training program to coach me to be better in strategic conversations. We videotaped ourselves, got peer reviewed and then repeated the pattern. Also did live version with wider audience. Great experience. I'm gonna use this approach all the time, so thought it worth sharing!
+
+### Group I'm thinking about today
+
+Interestingly enough, I'm thinking about web developers using search engines to find answers, and how strategic the platform positioning is when it comes to those results. I realize that's a good thing-- that popular platforms will get most of the traffic, under the presumption that the platform is popular because it's good.
+
+But I also wonder if maybe we've created a sort of chicken-egg scenario. If a developer asks a question, and there's only one top search result that seems to directly answer that question, that of course, developers will go to that platform to get the answer. 
+
+In many instances, that might be good-- but in the instance of feeling included and welcome-- it might not always be the case.
+
+I'm also thinking deeply about how search engines are getting much more intelligent about providing answers, when they can, without forcing the developer to go into a particular platform. And while that's happening for many different user-types, I wish it was better for developers.
+
+For example, if I search for how to authenticate users on website, the search results I'm getting personally are fairly far off from what I want. There's an opportunity here that we are missing out on!
+
+### Actions completed
+
+* Read this interesting blog post, took the test, and added a comment: https://code.likeagirl.io/take-the-tech-privilege-walk-19409e4c0053
+* Also emailed the team to see if there's any happenings around building a website to let people take this test online, and to track some interesting metrics around it.
+* Signed up to dev.to and posted an invite to help on this project. 
+
+### Actions to follow up on
+
+* Would love to create the website around the tech privilege walk, and expose the metrics on the site for people who've taken the test. Also would like to get a sense of demographics too, and compare to results. For example, my score seemed quite low for someone like me with so much privilege (-3).
+* Follow up on dev.to posting: https://dev.to/meggin/lets-build-a-more-inclusive-web-developer-community-4f6o.
+* 
