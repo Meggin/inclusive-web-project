@@ -188,13 +188,13 @@ I'm finishing the day feeling grateful for the opportunities and the support tha
 
 ### Groups I'm thinking of in web developer community
 
-I'm thinking about people and groups who are working hard to create a better web developer community. They are setting the tone for a different kind of way of interacting with each other. And I want to be able to give them the support, voice, and platform to succeed.
+I'm still thinking about people and groups who are working hard to create a better web developer community. They are setting the tone for a different kind of way of interacting with each other. And I want to be able to give them the support, voice, and platform to succeed.
 
 I'm also thinking about how some of these groups might perceive any help that I try and give-- I do not want to come off as condescending in anyway. In all these instances-- these groups and people are better than me, more successful than me, well ahead of the game than most.
 
 But I do work for a big corporation that might help these people and groups scale. So I'm thinking deeply about how to help people succeed without coming off in a weird way.
 
-I'm going to work hard to keep humble, listen, ask questions, and be thankful and gracious for whatever interaction and collaboration comes my way-- even when there's constructive critiques on how to be better.
+I'm thinking a bit more deeply about these groups and how I interact with them. I'm going to work hard to keep humble, listen, ask questions, and be thankful and gracious for whatever interaction and collaboration comes my way-- even when there's constructive critiques on how to be better.
 
 ### Actions completed today
 
