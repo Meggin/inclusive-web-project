@@ -180,3 +180,28 @@ There has to be some way to provide them more support, recognition, and a platfo
 
 * I feel it is worth recognizing that I went for a short run today. I was feeling down, and under-motivated, and I got myself out for a jog and feel better for it. Some days, just doing that is worth recognizing.
 
+## Day 8 - Monday, May 21, 2018
+
+Today I started off anxious, as I was away most of the weekend, and couldn't stay connected to work. And work is picking up! I had a great chat with a co-worker, a wonderful coaching session, and a power session building an action plan and underlying projects with a mentor and friend.
+
+I'm finishing the day feeling grateful for the opportunities and the support that I have on any given day.
+
+### Groups I'm thinking of in web developer community
+
+I'm thinking about people and groups who are working hard to create a better web developer community. They are setting the tone for a different kind of way of interacting with each other. And I want to be able to give them the support, voice, and platform to succeed.
+
+I'm also thinking about how some of these groups might perceive any help that I try and give-- I do not want to come off as condescending in anyway. In all these instances-- these groups and people are better than me, more successful than me, well ahead of the game than most.
+
+But I do work for a big corporation that might help these people and groups scale. So I'm thinking deeply about how to help people succeed without coming off in a weird way.
+
+I'm going to work hard to keep humble, listen, ask questions, and be thankful and gracious for whatever interaction and collaboration comes my way-- even when there's constructive critiques on how to be better.
+
+### Actions completed today
+
+* Read (and enjoyed) this blog today: https://code.likeagirl.io/understanding-the-journey-b6956ff745a0
+
+### Actions to follow up on
+
+* Make more progressive in The coding culture (fell behind this weekend as I was away with kids).
+* Come up with a way to discover companies that are actively building inclusion into their product, and are having measured success.
+
