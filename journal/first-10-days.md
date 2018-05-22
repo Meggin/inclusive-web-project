@@ -1,6 +1,6 @@
 # Inclusive Web Project Journal - First 10 Days
 
-Just as a quick FYI-- my plan is to organize journal by 10-day periods, followed by a focused analysis of what I've learned (and pushing forward on action items). Then I'll start the next 10 days. Hopefully this is as good as any way to start this process.
+Just as a quick FYI-- my plan is to organize journal by 10-day periods, followed by a focused analysis of what I've learned (and pushing forward on action items). Then I'll start the next 10 days. Hopefully this is as good as any way to start this process. My plan is to publish a blog post after each 10 day period. That way I can re-highlight the project, show progress, or lack there-of, and hopefully start to gain some momentum.
 
 ## Day 1 - Wednesday, May 9, 2018
 
@@ -221,9 +221,9 @@ But I also wonder if maybe we've created a sort of chicken-egg scenario. If a de
 
 In many instances, that might be good-- but in the instance of feeling included and welcome-- it might not always be the case.
 
-I'm also thinking deeply about how search engines are getting much more intelligent about providing answers, when they can, without forcing the developer to go into a particular platform. And while that's happening for many different user-types, I wish it was better for developers.
+I'm also thinking deeply about how search engines are getting much more intelligent about providing answers in the search results. And while that's happening for many different user types, I wish it was happening more for developers.
 
-For example, if I search for how to authenticate users on website, the search results I'm getting personally are fairly far off from what I want. There's an opportunity here that we are missing out on!
+For example, if I search for how to authenticate users on website, the search results I'm getting are fairly far off from what I want. There's an opportunity here that we are missing out on!
 
 ### Actions completed
 
@@ -235,4 +235,3 @@ For example, if I search for how to authenticate users on website, the search re
 
 * Would love to create the website around the tech privilege walk, and expose the metrics on the site for people who've taken the test. Also would like to get a sense of demographics too, and compare to results. For example, my score seemed quite low for someone like me with so much privilege (-3).
 * Follow up on dev.to posting: https://dev.to/meggin/lets-build-a-more-inclusive-web-developer-community-4f6o.
-* 
