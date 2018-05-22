@@ -198,10 +198,14 @@ I'm thinking a bit more deeply about these groups and how I interact with them. 
 
 ### Actions completed today
 
-* Read (and enjoyed) this blog today: https://code.likeagirl.io/understanding-the-journey-b6956ff745a0
+* Read (and enjoyed) this blog today: https://code.likeagirl.io/understanding-the-journey-b6956ff745a0.
+* Learned about the important balance between advocacy and inquiry. One has to be able to be both gracefully. Yes, have ideas and a way to action them that you are ready to advocate for-- but also listen to people and their ideas and their reaction to your ideas. 
+* Also learned about the importance of remembering to think about failure at the start of projects-- what would happen if you failed, what might cause the failures, and how can you mitigate those risks. We think about this in technical situations-- but it's also very useful to think about this in terms of relationships! I need to get better at this.
 
 ### Actions to follow up on
 
 * Make more progressive in The coding culture (fell behind this weekend as I was away with kids).
 * Come up with a way to discover companies that are actively building inclusion into their product, and are having measured success.
+* Build 'what if this fails' into inclusive-web-project. And then mitigate the risks.
+* Also create a 'what success looks like' into inclusive-web-project.
 
