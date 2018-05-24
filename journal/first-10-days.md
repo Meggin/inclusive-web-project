@@ -235,3 +235,23 @@ For example, if I search for how to authenticate users on website, the search re
 
 * Would love to create the website around the tech privilege walk, and expose the metrics on the site for people who've taken the test. Also would like to get a sense of demographics too, and compare to results. For example, my score seemed quite low for someone like me with so much privilege (-3).
 * Follow up on dev.to posting: https://dev.to/meggin/lets-build-a-more-inclusive-web-developer-community-4f6o.
+
+## Day 10 - Thursday, May 24, 2018
+Today is the first 10th day. Woot! It took me 15 days to get to 10 days. I plan to write a blog post to capture some key learnings, and to create a list of the best actions that I think might be useful to work on.
+
+### Group I'm thinking about today
+Interestingly enough, today I'm thinking about some of the developers I work with who one would assume are the main-stream, included group. These are mainly white men with computer science degrees from reputable universities who've worked on hard projects and succeeded. Many of these men are married with children, and most of their wives do not work.
+
+I am often amazed at the visible hours they put into their jobs. And I wonder about that-- about whether or not I can ever be as successful as any of these men, given that I need to be with my children in the morning, getting them ready for school, and I need to be with my children in the evening, when we have dinner, do homework, play games, snuggle.
+
+It is a strange thing to think about, and honestly, I'm uncomfortable. But I do believe that as I'm thinking of all the groups that may be excluded-- I should also keep my unconscious bias and deeper darker thoughts in check. I do need to think about who exactly I presume to be in the included group-- and what that inclusion looks like.
+
+Because here's the reality-- we are only going to build a more inclusive web, if that is to the benefit of everyone.
+
+### Actions completed
+* Completed first 10 days!
+
+### Actions to follow up on
+* Write the blog post!
+
+
