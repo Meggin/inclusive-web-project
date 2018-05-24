@@ -246,9 +246,7 @@ I am often amazed at the visible hours they put into their jobs. And I wonder ab
 
 It is a strange thing to think about, and honestly, I'm uncomfortable. But I do believe that as I'm thinking of all the groups that may be excluded-- I should also keep my unconscious bias and deeper darker thoughts in check. I do need to think about who exactly I presume to be in the included group-- and what that inclusion looks like.
 
-Here's the reality. We won't be able to succeed at building a more inclusive web, unless that vision is more beneficial to those who are already included-- the majority must be incentivized even more so than the minority. If there's one thing I learned from Peter Thiel's Zero to One-- it is that-- inclusion doesn't exist yet because the majority doesn't think it's worthile to them.
-
-We need to change that.
+Here's the reality. We won't be able to succeed at building a more inclusive web, unless that vision is more beneficial to those who are already included-- the majority must be incentivized even more so than the minority. If there's one thing I learned from Peter Thiel's Zero to One-- it is that with all the talk around inclusion and diversity-- why haven't the numbers change-- the likely reason is that the majority doesn't really see the value of the investment. There has to be some selfish gain for the majority to invest, for the initiative to succeed.
 
 ### Actions completed
 * Completed first 10 days!
