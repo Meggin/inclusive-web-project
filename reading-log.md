@@ -13,6 +13,7 @@ For now, I'm just listing my resources. Later, I'll try and show due diligence a
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?s=books&ie=UTF8&qid=1525887078&sr=1-1&keywords=zero+to+one), Peter Theil.
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?s=books&ie=UTF8&qid=1525887094&sr=1-1&keywords=measure+what+matters), John Kotter.
 * [The Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=sr_1_1?ie=UTF8&qid=1526141867&sr=8-1&keywords=the+culture+code), Daniel Coyle.
+* [The Progress Principle](https://www.amazon.com/Progress-Principle-Ignite-Engagement-Creativity/dp/142219857X/ref=sr_1_1?ie=UTF8&qid=1527726346&sr=8-1&keywords=the+progress+principle), Teresa Amabile & Steven Kramer.
 
 ## Blogs I'm reading
 
