@@ -27,3 +27,27 @@ What if we could create a path for people who only have a very small bit of time
 ### Actions to follow up on
 
 * Try and carve out time for even just a short blog post! It's hard, I realize, but it would be a good thing to do.
+
+## Day 12 - Friday, June 8. 2018
+
+I set a mini-deadline for myself in work with another peer-- we've been experimenting with new ways to grow our web developer community, and help that community succeed. It's been a cool couple of weeks and I hope to have more to share about that soon.
+
+Part of this exploration has been thinking about ways to help scale the work of awesome people and companies in our community. It's kind of an interesting problem-- you want to be the catalyst to help others succeed, matching your success to their success. 
+
+We aren't there yet, but we've made some baby steps and will write more about this once things solidify a bit. At the very least, it might explain why I've been a little slower on this journal.
+
+## Group I'm thinking about today
+
+I've been thinking a lot about many different people I've been reading about in the tech community and who've I've been following, people who are trying very actively to build more inclusive communities. People like Ellen Pao, Eryka Joy, April Wensel, Jenn Schiffer, Susan Fowler, Tracy Lee, Natalie Villaboos, Rayan Zahab.
+
+It's only been a month since I started this journal, and already work and life stuff has come up. It's been hard to stay diligent. Also, I've tried to discuss some of my ideas, I've started to ask questions around this topic in parts of my day job, and I'm starting to realize that it takes quite a bit to not get discouraged and keep on taking those baby steps forward.
+
+I have such a new found respect for these women who are able to gather momentum and start to have some impact, some cultural significance in shifting the way we think about how tech should be in the future. Wow. Props to these women.
+
+## Actions completed
+
+* A friend shared this with me, and I quite like it, so sharing with you: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+
+## Actions to follow up on
+
+* Finish applying for cool inclusive coding project so we can buid a bit more momentum around this project!
