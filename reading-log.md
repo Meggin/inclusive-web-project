@@ -14,7 +14,7 @@ For now, I'm just listing my resources. Later, I'll try and show due diligence a
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?s=books&ie=UTF8&qid=1525887094&sr=1-1&keywords=measure+what+matters), John Kotter.
 * [The Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0804176981/ref=sr_1_1?ie=UTF8&qid=1526141867&sr=8-1&keywords=the+culture+code), Daniel Coyle.
 * [The Progress Principle](https://www.amazon.com/Progress-Principle-Ignite-Engagement-Creativity/dp/142219857X/ref=sr_1_1?ie=UTF8&qid=1527726346&sr=8-1&keywords=the+progress+principle), Teresa Amabile & Steven Kramer.
-* [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_1_sspa?ie=UTF8&qid=1528130645&sr=8-1-spons&keywords=Principles&psc=1), Ray Dalio
+* [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_1_sspa?ie=UTF8&qid=1528130645&sr=8-1-spons&keywords=Principles&psc=1), Ray Dalio.
 
 ## Blogs I'm reading
 
