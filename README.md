@@ -6,7 +6,9 @@ For now I'm in explorer mode, but as the project takes shape, I'll use GitHub's 
 ## Starting point - 100-day journal
 To kick-start this project, I'm keeping a 100-day journal. I'll keep track of people I talk to, research I complete, information I gain out of this research, and any action items that come out of the work.
 
-Check it out: [First 10 days](https://github.com/Meggin/inclusive-web-project/blob/master/journal/first-10-days.md).
+Check it out: 
+* [First 10 days](https://github.com/Meggin/inclusive-web-project/blob/master/journal/first-10-days.md).
+* [Second 10 days](https://github.com/Meggin/inclusive-web-project/blob/master/journal/second-10-days.md).
 
 ## Reading log
 To learn more about the industry (and hopefully discover ways to change it), I'm gonna read a lot of books, and keep a reading journal.
