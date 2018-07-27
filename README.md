@@ -1,26 +1,21 @@
 # inclusive-web-project
-Exploring ways to make the web developer community more inclusive.
 
-For now I'm in explorer mode, but as the project takes shape, I'll use GitHub's milestone tracking to create a plan, and action that plan.
+Welcome to the inclusive web project!
 
-## Starting point - 100-day journal
-To kick-start this project, I'm keeping a 100-day journal. I'll keep track of people I talk to, research I complete, information I gain out of this research, and any action items that come out of the work.
+We've got an ambitious goal to create a more inclusive web developer community.
 
-Check it out: 
-* [First 10 days](https://github.com/Meggin/inclusive-web-project/blob/master/journal/first-10-days.md).
-* [Second 10 days](https://github.com/Meggin/inclusive-web-project/blob/master/journal/second-10-days.md).
+Our first project is to create a new type of developer survey that is intentionally inclusive.
 
-## Reading log
-To learn more about the industry (and hopefully discover ways to change it), I'm gonna read a lot of books, and keep a reading journal.
+We will build a website to host our survey, as well as track responses.
 
-I'll also include anything I watch or listen to that might be of interest.
-
-Check it out: [Reading log](https://github.com/Meggin/inclusive-web-project/blob/master/reading-log.md).
+As we progress, we will create a widget that other sites can use to embed the survey in their sites.
 
 ## Contribute!
 
-I would absolutely love all the help I can get in trying to figure out effective ways to build a more inclusive web developer community.
+We would love for you to help us get started on building a new inclusive survey platform.
 
-Please raise issues with any ideas you might have: [https://github.com/Meggin/inclusive-web-project/issues](https://github.com/Meggin/inclusive-web-project/issues).
+We've got our high level tasks scoped out in the [issue tracker](https://github.com/Meggin/inclusive-web-project/issues),
+which we will soon build into a proper project plan.
 
-You can also submit pull requests with your own journal entries and reading logs!
+If you would like to contribute,
+please read our [Contribution Guidelines](CONTRIBUTING.md).
