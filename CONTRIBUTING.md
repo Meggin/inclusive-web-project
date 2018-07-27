@@ -12,7 +12,7 @@ today! As a contributor, here are the guidelines we would like you to follow:
  - [Commit Message Guidelines](#commit)
 
 ## <a name="coc"></a> Code of Conduct
-Please read and follow our [Code of Conduct][CODE_OF_CONDUCT.md].
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## <a name="question"></a> Got a Question or Problem?
 
@@ -22,11 +22,11 @@ As the project grows,
 we may move questions to an alternative question/answer site,
 and will update this document accordingly.
 
-If you would like to chat about the question in real-time, you can reach out via [our slack channel][https://inclusive-web.slack.com/].
+If you would like to chat about the question in real-time, you can reach out via [our slack channel](https://inclusive-web.slack.com/).
 
 ## <a name="issue"></a> Found a Bug?
 If you find a bug in the source code, you can help us by
-[submitting an issue to our GitHub Repository][https://github.com/Meggin/inclusive-web-project/issues].
+[submitting an issue to our GitHub Repository](https://github.com/Meggin/inclusive-web-project/issues).
 Even better, you can submit a pull request with a fix!
 
 ## <a name="feature"></a> Missing a Feature?
