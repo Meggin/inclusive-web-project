@@ -20,7 +20,7 @@ As the project grows,
 we may move questions to an alternative question/answer site,
 and will update this document accordingly.
 
-If you would like to chat about the question in real-time, you can reach out via [our slack channel](https://inclusive-web.slack.com/).
+If you would like to chat about the question in real-time, you can reach out via [our slack channel](https://join.slack.com/t/inclusive-web/shared_invite/enQtNDA2NjE4NDc0NjkwLThhYTVkMDFhNWUyMjhhM2QxMjEyYjkxZGJiZDhjODNiY2U4OGZlMWU2ZjdlZWFjNDRmZTcxYTBhMzk1OGM4ZTE).
 
 ## <a name="issue"></a> Found a Bug?
 If you find a bug in the source code, you can help us by
