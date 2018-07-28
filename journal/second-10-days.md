@@ -36,7 +36,7 @@ Part of this exploration has been thinking about ways to help scale the work of 
 
 We aren't there yet, but we've made some baby steps and will write more about this once things solidify a bit. At the very least, it might explain why I've been a little slower on this journal.
 
-## Group I'm thinking about today
+### Group I'm thinking about today
 
 I've been thinking a lot about many different people I've been reading about in the tech community and who've I've been following, people who are trying very actively to build more inclusive communities. People like Ellen Pao, Eryka Joy, April Wensel, Jenn Schiffer, Susan Fowler, Tracy Lee, Natalie Villaboos, Rayan Zahab.
 
@@ -44,10 +44,23 @@ It's only been a month since I started this journal, and already work and life s
 
 I have such a new found respect for these women who are able to gather momentum and start to have some impact, some cultural significance in shifting the way we think about how tech should be in the future. Wow. Props to these women.
 
-## Actions completed
+### Actions completed
 
 * A friend shared this with me, and I quite like it, so sharing with you: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 
-## Actions to follow up on
+### Actions to follow up on
 
 * Finish applying for cool inclusive coding project so we can buid a bit more momentum around this project!
+
+## Day 12 - Friday, July 27. 2018
+
+Tonight I am speaking at Code4Good and kick-starting the first proper project as part of the larger inclusive web project-- building inclusive developer surveys. Very excited!
+
+### Actions completed
+
+* Finished applying for Code4Good and presenting tonight!
+* Got slide-deck and repo ready for presentation.
+
+### Actions to follow up on
+
+* Will spend the next week participating in Code4Good, pushing toward the early stages of building an inclusive developer survey platform.
