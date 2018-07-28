@@ -8,8 +8,6 @@ today! As a contributor, here are the guidelines we would like you to follow:
  - [Issues and Bugs](#issue)
  - [Feature Requests](#feature)
  - [Submission Guidelines](#submit)
- - [Coding Rules](#rules)
- - [Commit Message Guidelines](#commit)
 
 ## <a name="coc"></a> Code of Conduct
 Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
